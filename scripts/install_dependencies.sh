@@ -17,6 +17,7 @@ brew install --cask font-go-mono-nerd-font
 echo "Installing dependencies"
 brew install neovim \
   starship \
+  jesseduffield/lazygit/lazygit \
   fzf \
   bat \
   eza
